@@ -8,9 +8,9 @@
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="296dp"
-        android:layout_height="454dp"
+        android:layout_width="391dp"
+        android:layout_height="509dp"
         app:srcCompat="@android:color/holo_blue_dark"
-        tools:layout_editor_absoluteX="44dp"
-        tools:layout_editor_absoluteY="28dp" />
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="2dp" />
 </android.support.constraint.ConstraintLayout>
